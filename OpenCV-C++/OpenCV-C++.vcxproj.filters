@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="read_images_and_video.cpp">
+    <ClCompile Include="basic_functions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
