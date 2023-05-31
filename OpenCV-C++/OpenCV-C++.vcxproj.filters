@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="basic_functions.cpp">
+    <ClCompile Include="warp_perspective.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
