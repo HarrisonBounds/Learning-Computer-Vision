@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="warp_perspective.cpp">
+    <ClCompile Include="color_detection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
